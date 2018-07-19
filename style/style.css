@@ -1,0 +1,257 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+	width: 100%;
+	margin:auto;
+}
+
+.btn-default{
+	border-radius: 0px;
+}
+
+.thumbnail{
+	border-radius: 0px;
+	background-color: #dedede;
+	opacity: 1;
+}
+
+h1{
+	color:white;
+	font-family: Arial, sans-serif;
+	size:3em;
+	font-weight: bold;
+}
+
+h3{
+	color:white;
+	font-family:Arial;
+	font-weight: bold;
+	text-decoration: none;
+	size:2em;
+}
+
+.tsitsi{
+	color:white;
+	font-weight: bold;	
+}
+
+.navbar-default{
+	background-color: white;
+}
+
+.intro{
+	font-size: 8em;
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top: 50px;
+	margin-top: 5%;
+}
+.tagLine{
+	font-size: 1em;
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+	padding:50px 50px 50px 50px;
+	background-color: black;
+	opacity:0.7;
+	margin-top: 0%;
+}
+
+footer .footer{
+	width:100%;
+	height:100px;
+	color:white;
+}
+.footer-text{
+	color:black;
+	margin-bottom: 0%;
+}
+p.footer-tag{
+	padding-top: 1%;
+	color:#f00;
+	width:100%;
+	height:auto;
+	float:right;
+}
+nav{
+	width:100%;
+}
+nav ul li{
+	text-decoration: none;
+	padding-left: 10px;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.navbar{
+	background-color: : #000;
+}
+
+.navbar li a:hover {
+	background-color: white;
+	color:black;
+	text-decoration: none;
+	font-color:white;
+}
+
+.home-page{
+	height:800px;
+	background:url("images/oats1.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: center center;
+	padding-top: 60px;
+}
+
+.anchor-img{
+	width:450px;
+	height:400px;
+	padding:40px;
+}
+.social li{
+	color:white;
+	padding:20px;
+
+}
+.social li:hover{
+	color: #000;
+}
+.social li a{
+	padding: 12px 12px 12px 12px;
+	color:black;
+}
+
+.social li a:hover{
+	color: white;
+	background-color: #000; 
+}
+
+.aboutMe-page{
+	height:1200px;
+	background:url("images/oats.jpg");
+	background-opacity:.4;
+	background-repeat: :no-repeat;
+	background-attachment: fixed;
+	position: center center;
+	padding-top: 60px;
+}
+.aboutMe-page p{
+	color:white;
+	font-family: Arial;
+	font-size: 2em;
+	text-decoration: none;
+	padding:20px;
+}
+
+.curriculum-vitae li{
+	color:white;
+
+}
+.curriculum-vitae li:hover{
+	color: #000;
+}
+.curriculum-vitae li a{
+	padding: 12px 12px 12px 12px;
+	color:black;
+}
+
+.curriculum-vitae li a:hover{
+	color: white;
+	background-color: #000; 
+
+}
+
+.profile-foto{
+	width:300px;
+	height:300px;
+	border-radius: 50%;
+	padding:20px;
+}
+
+.myProjects-page{
+	height:1600px;
+	background:#fff;
+	background-repeat: :no-repeat;
+	background-attachment: fixed;
+	position: center center;
+	padding-top: 60px;
+}
+
+.myProjects-page h1{
+	color:#000000;
+}
+
+.projects{
+	padding:20px;
+}
+
+.project-links li:hover{
+	color: #000;
+}
+.project-links li a{
+	padding: 12px 12px 12px 12px;
+	color:black;
+}
+
+.project-links li a:hover{
+	color: white;
+	background-color: #000; 
+}
+.contact-page{
+	height:1000px;
+	background:url("images/oats2.jpg");
+	background-repeat: :no-repeat;
+	background-attachment: fixed;
+	position: center center;
+	padding-top: 60px;
+}
+.contact-page h4{
+	color: white;
+}
+
+.header{
+	font-weight: bold;
+	font-style: italic;
+	padding:20px 20px 20px 20px;
+	text-decoration: underline;
+}
+
+.navbar-default{
+	background-color: grey !Important;
+	border-color: grey;
+}
+
+.navbar-default li a{
+	color: black !Important;
+	font-family: Arial;
+
+}
+
+.navbar-default li a:hover{
+	background-color: #dedede !Important;
+	color: black !Important;
+	text-decoration: none;
+}
+
+.navbar-toggle{
+	background-color: #f00 !Important;
+	color: white !Important;
+}
+
+.navbar-toggle:hover{
+	background-color: #ff3333 !Important;
+	color: white !Important;
+}
+
+.navbar-toggle:focus{
+	background-color: #ff3333 !Important;
+	color: white !Important;
+}
